@@ -3,15 +3,15 @@ Data + Resources for the Multimodal RAG in Education Capstone Project
 
 
 ## Contents:
-This repository contains content pulled from weeks 7-9 of DS3001. The content from other weeks will need to be pulled from [Canvas](https://canvas.its.virginia.edu/courses/71695) and the [course repo](https://github.com/UVADS/DS-3001/tree/main). The documents incldued are the raw documents and may need to be reformatted to be chunked and vectorized.
+This repository contains content pulled from weeks 7-9 of DS3001. The content from other weeks will need to be pulled from [Canvas](https://canvas.its.virginia.edu/courses/71695) and the [course repo](https://github.com/UVADS/DS-3001/tree/main). The documents incldued are the raw documents and will need to be reformatted to be chunked and vectorized.
 
-### pdf_books: 
+### pdf_books folder: 
 .pdf files of textbooks we have found to be relevant and high quality resources
 
-### lecture_transcripts: 
+### lecture_transcripts folder: 
 .txt files of the automatically generated transcripts from Professor Wright's weekly lecture videos
 
-### lectures: 
+### lectures folder: 
 .pdf/.ppt files of lecture slides
 
 ## RAG resources:
